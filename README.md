@@ -9,8 +9,8 @@ Basketball is an exciting sport with a rich dataset of player statistics. This p
 ## Requirements
 To run the sports data analysis script, you'll need the following:
 
-Python (3.x recommended) with the required libraries: pandas, numpy, and matplotlib.
-A CSV file containing the basketball player data.
+1) Python (3.x recommended) with the required libraries: pandas, numpy, and matplotlib.
+2) A CSV file containing the basketball player data.
 
 ## Data Analysis
 The SportsAnalysis class in the Python script contains methods to calculate player statistics, such as total points, rebounds, and assists, as well as career stats like years of activity, height, and weight.
